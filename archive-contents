@@ -74,6 +74,7 @@
  (evil-mark-replace . [(0 0 5) ((evil (1 14 0))) "replace the thing in marked area" tar])
  (evil-matchit . [(2 3 11) ((evil (1 2 0)) (emacs (25 1))) "Vim matchit ported to Evil" tar])
  (evil-nerd-commenter . [(3 5 4) ((emacs (24 4))) "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar])
+ (evil-snipe . [(2 0 8) ((emacs (24 4)) (evil (1 2 12)) (cl-lib (0 5))) "emulate vimseek" tar])
  (evil-surround . [(1 1 1) ((evil (1 2 12))) "emulate surround.vim from Vim" tar])
  (evil-visualstar . [(0 2 0) ((evil (0))) "Starts a * or # search from the visual selection" tar])
  (exec-path-from-shell . [(1 12) nil "Get environment variables such as $PATH from the shell" tar])
